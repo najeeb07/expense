@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "263825129427",
+    "project_id": "shaapps-f49b9",
+    "storage_bucket": "shaapps-f49b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263825129427:android:4d19d450030dba2ad5f926",
+        "android_client_info": {
+          "package_name": "com.najeebappdev.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe8rlod7DYDLpJ7wf5s7wYDzyxmn9aY8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="default_web_client_id">263825129427-pjpf86c60i60kmeigcjdmbirrjeek6r9.apps.googleusercontent.com</string>
+    <string name="settings">Settings</string>
+    <string name="title">tittle</string>
+    <string name="price">price</string>
+    <string name="date_ttime">20-12-20223</string>
+</resources>
